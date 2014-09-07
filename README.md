@@ -8,6 +8,7 @@ Suggest me more! If you have wrote or read a nice blog post / papers please send
 
 ### Articles
 1. [Understanding Mutexes][1]  _(October 2013)_
+
 well explained blog post about race condition and how to solve
 that using `sync.Mutex`. If you want to learn how to handle race
 condition i recommend to read this article .
