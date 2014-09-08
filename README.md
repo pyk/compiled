@@ -14,6 +14,13 @@ Suggest me more! If you have wrote or read a nice blog post / papers please send
 
 [1]: http://www.alexedwards.net/blog/understanding-mutexes
 
+2.  [Structuring Tests in Go][2]  _(July 2014)_    
+    Rule number 2, _Use the “underscore test” package_, answered my
+    my curiosity, "why i should use different package name on my test
+    file?".
+
+[2]: https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c
+
 
 ### Papers
 _initial repos_
