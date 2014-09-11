@@ -21,6 +21,12 @@ Suggest me more! If you have wrote or read a nice blog post / papers please send
 
 [2]: https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c
 
+3.  [A Recap of Request Handling in Go][3]  _(September 2013)_    
+    I'm understand relation between *ServeMux* and *HTTP Handler* from
+    this post. This blog post is help me to build custom logger for each
+    HTTP request.
+
+[3]: http://www.alexedwards.net/blog/a-recap-of-request-handling
 
 ### Papers
 _initial repos_
