@@ -28,6 +28,11 @@ Suggest me more! If you have wrote or read a nice blog post / papers please send
 
 [3]: http://www.alexedwards.net/blog/a-recap-of-request-handling
 
+4.  [Go Data Structures][4]  _(November 2009)_    
+    He explained very well different between `new()` and `make()` in Go.
+
+[4]: http://research.swtch.com/godata
+
 ### Papers
 _initial repos_
 
