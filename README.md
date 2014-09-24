@@ -33,6 +33,14 @@ Suggest me more! If you have wrote or read a nice blog post / papers please send
 
 [4]: http://research.swtch.com/godata
 
+
+### Books
+1.  [An Introduction to Programming in Go.][b1]  _(2012 by Caleb Doxsey)_    
+    I recommend to read this book if you want to learn quickly the basic of Go
+
+[b1]: http://www.golang-book.com/
+
+
 ### Papers
 _initial repos_
 
